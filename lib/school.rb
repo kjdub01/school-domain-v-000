@@ -2,7 +2,7 @@
 class School
   attr_reader :school
   
- def initalize(school)
+ def initialize(school)
   @school = school
  end
 
