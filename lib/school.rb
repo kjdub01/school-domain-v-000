@@ -17,7 +17,7 @@ end
   end
   
   def sort
-    self.roster
+    self.roster.select
   end 
   
 end
