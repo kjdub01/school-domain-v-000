@@ -6,9 +6,9 @@ class School
   @school = school
  end
 
-def roster
+def roster(school)
   roster = {}
-  school.new << roster
+  school << roster
 end
 
 end
