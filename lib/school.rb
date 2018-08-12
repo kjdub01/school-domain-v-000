@@ -17,7 +17,7 @@ end
   end
   
   def sort
-    @roster
+    self.roster
   end 
   
 end
