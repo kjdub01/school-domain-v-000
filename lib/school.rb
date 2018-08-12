@@ -13,5 +13,5 @@ end
 def add_student(grade, name)
   roster[grade] = []
   roster[grade] << new_value_for_value_array
-
+  end
 end
