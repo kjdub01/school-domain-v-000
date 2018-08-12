@@ -11,7 +11,7 @@ def roster
 end
 
 def add_student(grade, name)
-  raster[grade] = []
+  roster[grade] = []
   
   end
 end
