@@ -6,9 +6,8 @@ class School
   @school = school
  end
 
-def roster(school)
+def roster
   roster = {}
-  school << roster
 end
 
 end
