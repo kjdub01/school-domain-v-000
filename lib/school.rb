@@ -17,7 +17,7 @@ end
   end
   
   def sort
-    self.roster.select
+    self.roster.each do ||
   end 
   
 end
