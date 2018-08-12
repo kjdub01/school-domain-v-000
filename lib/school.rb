@@ -9,7 +9,7 @@ class School
 
 def add_student(name, grade)
   self.roster[grade] ||= []
-  self.roster << name
+  self.roster[grade] << name
 end
   
   def grade(grade)
